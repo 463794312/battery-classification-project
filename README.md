@@ -17,8 +17,9 @@ A web-based application that uses computer vision and machine learning to classi
 
 ## Demo Screenshot
 The image on the left is the live view, and the image on the right is the one captured after you pressed the capture button. You can save it.
+<picture>
 <img src="screenshots/web-app-screenshot.png" width="800" alt="web app interface">
-
+</picture>
 
 ## Tech Stack
 - **Frontend**: HTML5, CSS3, JavaScript, WebRTC
