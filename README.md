@@ -1,7 +1,6 @@
 # Battery Classification Web Application
 
-A web-based application that uses computer vision and machine learning to classify battery types and brands via webcam capture. 
-The application leverages WebRTC for real-time camera access and PyTorch for image classification.
+A web-based application that uses computer vision and machine learning to classify battery types and brands via webcam capture. The application leverages WebRTC for real-time camera access and PyTorch for image classification.
 This is a group project. I am only responsible for the web app.
 
 
