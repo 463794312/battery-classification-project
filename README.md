@@ -22,12 +22,6 @@ A web-based application that uses computer vision and machine learning to classi
 - **Image Processing**: Pillow (PIL)
 
 
-## Prerequisites
-- Python 3.7+
-- pip (Python package manager)
-- Modern web browser with WebRTC support (Chrome, Firefox, Edge, etc.)
-
-
 ## Installation
 
 1. Clone the repository:
@@ -93,13 +87,3 @@ A web-based application that uses computer vision and machine learning to classi
 - Group 1: `Energizer`, `GP-recyko-aaa`, `energizer-aaa`, `gp-super-aa`
 - Group 2: `black-eneloop`, `duracell-aa`, `matsusho-super-aa`
 
-
-## Notes
-- The application will use GPU acceleration if available (via CUDA), otherwise falls back to CPU
-- Model files larger than 100MB should be managed with Git LFS (Large File Storage)
-- WebRTC requires secure context (HTTPS) in production environments, but works with localhost in development
-
-
-## License
-[Specify your license here]
-```
