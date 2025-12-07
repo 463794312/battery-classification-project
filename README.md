@@ -15,6 +15,11 @@ A web-based application that uses computer vision and machine learning to classi
 - Responsive web interface
 
 
+## Demo Screenshot
+The image on the left is the live view, and the image on the right is the one captured after you pressed the capture button. You can save it.
+![web app interface](screenshots/web-app-screenshot.png)
+
+
 ## Tech Stack
 - **Frontend**: HTML5, CSS3, JavaScript, WebRTC
 - **Backend**: Python, Flask
@@ -35,12 +40,8 @@ A web-based application that uses computer vision and machine learning to classi
    pip install -r requirements.txt
    ```
 
-3. Place your pre-trained model files in the `model/` directory. Required model files:
-   - `all-types-model.pth`
-   - `non-recharge-model.pth`
-   - `recharge-model.pth`
-   - `model-1.pth`
-   - `model-2.pth`
+3. Download pre-trained model files:
+   https://drive.google.com/drive/folders/10yCuAxq8woJw4HRpLpq0yWfl6rUas_Ct?usp=drive_link
 
 
 ## Usage
