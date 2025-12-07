@@ -55,22 +55,7 @@ A web-based application that uses computer vision and machine learning to classi
    http://localhost:5000
    ```
 
-3. Select a video source from the dropdown menu (if multiple cameras are available)
-
-4. Click "Capture and prediction" to capture an image and get classification results
-
-5. View results in the three classification layers displayed on the page
-
-6. Click "Save Image" to download the captured image locally
-
-
-## Project Structure
-- `app.py`: Backend Flask application with classification logic
-- `templates/index1.html`: Main web interface
-- `static/script.js`: Frontend JavaScript for camera handling and API calls
-- `static/main.css`: Styling for the web interface
-- `static/ga.js`: Google Analytics integration
-- `model/`: Directory for storing pre-trained model files (not included in repository)
+3. Connect your webcam to use
 
 
 ## Model Classification Details
